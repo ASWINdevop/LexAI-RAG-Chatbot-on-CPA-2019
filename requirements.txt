@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+pypdf
+tiktoken
+fastapi
+uvicorn
+requests
+sentence-transformers
+langchain-google-genai
+langchain-huggingface
+langchain-core
