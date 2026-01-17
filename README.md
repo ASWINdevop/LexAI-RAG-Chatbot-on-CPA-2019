@@ -47,8 +47,8 @@ RAG PROJECT/
 1. Clone the Repository
 
 
-git clone [https://github.com/SeionixAi/B115-Aswin-A-S-Phase-4.git](https://github.com/SeionixAi/B115-Aswin-A-S-Phase-4.git)
-cd B115-Aswin-A-S-Phase-4
+git clone https://github.com/ASWINdevop/LexAI-RAG-Chatbot-on-CPA-2019 location
+cd location
 
 2. Create a Virtual Environment
 
