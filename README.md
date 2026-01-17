@@ -48,6 +48,7 @@ RAG PROJECT/
 
 
 git clone https://github.com/ASWINdevop/LexAI-RAG-Chatbot-on-CPA-2019 location
+
 cd location
 
 2. Create a Virtual Environment
