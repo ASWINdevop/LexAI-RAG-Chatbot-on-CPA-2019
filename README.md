@@ -46,10 +46,11 @@ RAG PROJECT/
 ⚙️ Installation & Setup
 1. Clone the Repository
 
-
+```bash
 git clone https://github.com/ASWINdevop/LexAI-RAG-Chatbot-on-CPA-2019 location
 
 cd location
+```
 
 2. Create a Virtual Environment
 
